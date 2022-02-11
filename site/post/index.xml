@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog of HatateAya</title>
+    <link>https://hatateaya.github.io/post/</link>
+    <description>Recent content in Posts on Blog of HatateAya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 11 Feb 2022 20:53:14 +0800</lastBuildDate><atom:link href="https://hatateaya.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://hatateaya.github.io/post/about-me/</link>
+      <pubDate>Fri, 11 Feb 2022 20:53:14 +0800</pubDate>
+      
+      <guid>https://hatateaya.github.io/post/about-me/</guid>
+      <description>about</description>
+    </item>
+    
+  </channel>
+</rss>
