@@ -1,0 +1,12 @@
+
+编辑文档：
+
+复制粘贴 readme.md 并修改相关信息（文档名，标题，日期，内容）
+
+预览：
+
+双击脚本
+
+发布：
+
+打开 github desktop 然后 commit 并 push
