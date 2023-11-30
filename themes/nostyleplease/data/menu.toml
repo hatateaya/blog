@@ -2,52 +2,55 @@
 title = "info"
 
   [[entries.entries]]
-  title = "a (nearly) no-CSS, fast, minimalist Hugo theme ported from <a href='https://github.com/riggraz/no-style-please'>riggraz/no-style-please</a>."
-
+  title = "a person. pron: she/her"
+  
   [[entries.entries]]
-  title = "github repo"
-  url = "https://github.com/riggraz/no-style-please"
-
+  title = "content licence: cc-by-sa 4.0"
+  
   [[entries.entries]]
-  title = "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+  title = "github"
+  url = "https://github.com/hatateaya"
+
+#  [[entries.entries]]
+#  title = "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
 [[entries]]
 title = "all posts"
 
   [entries.post_list]
-  limit = 5
+  limit = 10
   show_more = true
   show_more_text = "See archive..."
   show_more_url = "posts"
 
-[[entries]]
-title = "posts by category"
+#[[entries]]
+#title = "posts by category"
 
-  [entries.post_list]
-  section = "posts"
-  show_more = true
-  show_more_text = "See more posts..."
-  show_more_url = "posts"
+#  [entries.post_list]
+#  section = "posts"
+#  show_more = true
+#  show_more_text = "See more posts..."
+#  show_more_url = "posts"
 
 [[entries]]
 title = "rss"
 url = "index.xml"
 
-[[entries]]
-title = "another list"
+#[[entries]]
+#title = "another list"
+#
+#  [[entries.entries]]
+#  title = "with subitems"
+#
+#    [[entries.entries.entries]]
+#    title = "with subsubitems"
+#
+#    [[entries.entries.entries]]
+#    title = "example page"
+#    url = "about"
 
-  [[entries.entries]]
-  title = "with subitems"
-
-    [[entries.entries.entries]]
-    title = "with subsubitems"
-
-    [[entries.entries.entries]]
-    title = "example page"
-    url = "about"
-
-[[entries]]
-title = "PRO TIP"
-entries = [
-   { title = "to edit this menu, edit data/menu.toml file" }
-  ]
+#[[entries]]
+#title = "other"
+#entries = [
+#   { title = "licence: cc-by-sa 4.0" }
+#  ]
