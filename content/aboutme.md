@@ -6,18 +6,18 @@ draft: false
 
 This is my blog.
 
-I am a simple person, a MtF. Please using "she/her" or "they" as my pronoun.
+I am a simple person, and also a MtF. Please using "she/her" or "they" as the pronoun to me.
 
-I have some interest in Computer Science, Railway Transportation, Transportation Cards, and Touhou Project. 
+I have some interests in Computer Science and Touhou Project.
 
-My mother language is Chinese, you can use Simplified Chinese, English or Esperanto to communicate with me.
+My mother language is Chinese. You can use Chinese, English or Esperanto to communicate with me.
 
 My GitHub: <https://github.com/hatateaya>
 
 My Twitter: <https://twitter.com/amcje1>
 
-My Mail Address: <amcjedhfeh@gmail.com>
+My E-Mail: <amcjedhfeh@gmail.com>
 
-You can use E-Mail or Twitter PM to communicate with me.
+My Telegram: <https://t.me/hatate_shimamura>
 
-If you want my other communication method, like Telegram. Please ask me through the method above.
+You can use these methods to communicate with me.
