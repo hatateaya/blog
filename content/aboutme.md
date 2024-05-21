@@ -16,8 +16,6 @@ My GitHub: <https://github.com/hatateaya>
 
 My Twitter: <https://twitter.com/amcje1>
 
-My E-Mail: <amcjedhfeh@gmail.com>
-
-My Telegram: <https://t.me/hatate_shimamura>
+My Telegram: <https://t.me/+447801295837>
 
 You can use these methods to communicate with me.
