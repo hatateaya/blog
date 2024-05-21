@@ -6,6 +6,8 @@ draft: false
 
 This is my blog.
 
+I have been known as 橄榄菜, 羽衣甘蓝, hatateaya, borecole, amcje1, hatate_shimamura
+
 I am a simple person, and also a MtF. Please using "she/her" or "they" as the pronoun to me.
 
 I have some interests in Computer Science and Touhou Project.
