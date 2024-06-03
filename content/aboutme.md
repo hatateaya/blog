@@ -18,6 +18,6 @@ My GitHub: <https://github.com/hatateaya>
 
 My Twitter: <https://twitter.com/amcje1>
 
-My Telegram: <https://t.me/+447801295837>
+My Telegram: <https://t.me/sabellica>
 
 You can use these methods to communicate with me.
