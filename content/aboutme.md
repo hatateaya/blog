@@ -18,7 +18,7 @@ draft: false
 
 我的 Twitter: <https://twitter.com/amcje1>
 
-我的 Telegram: <https://t.me/sabellica>
+我的 Telegram: <https://t.me/ganlancai>
 
 您可以使用上述联系方式同我联系。
 
