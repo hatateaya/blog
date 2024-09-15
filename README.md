@@ -1,1 +1,1 @@
-This is my blog.
+Here are the source files of Hatate Aya's blog.
