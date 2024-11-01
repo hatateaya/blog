@@ -51,4 +51,6 @@ draft: false
  - `sudo dnf install yarn rustup`
  - 配置 yarn 源 与 electron 下载使用代理
  - 配置 cargo 源
-10. 若为 chromebook 需安装音频驱动
+10. 若为 chromebook 需配置驱动
+ - `https://github.com/jmontleon/pixelbook-fedora`
+ - `https://github.com/WeirdTreeThing/chromebook-linux-audio`
