@@ -1,5 +1,5 @@
 ---
-title: "Fedora安装初配置"
+title: "Fedora安装初配置笔记"
 date: 2024-11-01T12:00:00+08:00
 draft: false
 ---
@@ -51,3 +51,4 @@ draft: false
  - `sudo dnf install yarn rustup`
  - 配置 yarn 源 与 electron 下载使用代理
  - 配置 cargo 源
+10. 若为 chromebook 需安装音频驱动
