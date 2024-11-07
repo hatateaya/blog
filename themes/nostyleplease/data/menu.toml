@@ -2,15 +2,11 @@
 title = "info"
 
   [[entries.entries]]
-  title = "a person"
+  title = "a person. <a href='/aboutme/>about me</a>"
   
   [[entries.entries]]
   title = "content licence: cc-by-sa 4.0"
   
-  [[entries.entries]]
-  title = "about me"
-  url = "/aboutme/"
-
 #  [[entries.entries]]
 #  title = "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
