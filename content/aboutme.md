@@ -6,10 +6,7 @@ draft: false
 
 这是我的博客。
 
-请使用“她”或者“它”作为对我使用的人称代词。
-
 - 我的 GitHub: <https://github.com/hatateaya>
-- 我的 Bluesky: <https://borecole.bsky.social>
 - 我的 Twitter: <https://twitter.com/amcje1>
 - 我的 Telegram: <https://t.me/ganlancai>
 
@@ -17,6 +14,5 @@ draft: false
 
 此外的，在这个 GitHub Page 站点上还有一些内容，如下：
 
-- 对 overdose.wiki 网站的一个非官方粗糙镜像/备份： <https://hatateaya.github.io/overdose-wiki/>
-- 一个基于 RenPy 的 Cookie 部分复刻视觉小说： <https://hatateaya.github.io/koki-renpy/>
-- Lain 是神： <https://hatateaya.github.io/lainisgod/>
+- overdose.wiki 的一个非官方粗糙备份： <https://hatateaya.github.io/overdose-wiki/>
+- 一个基于 RenPy 的复刻了 Cookie 的一部分的视觉小说： <https://hatateaya.github.io/koki-renpy/>
