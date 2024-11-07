@@ -2,7 +2,7 @@
 title = "info"
 
   [[entries.entries]]
-  title = "a person. <a href='/aboutme/>about me</a>"
+  title = "a person. <a href='/aboutme/'>about me</a>"
   
   [[entries.entries]]
   title = "content licence: cc-by-sa 4.0"
