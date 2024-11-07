@@ -4,7 +4,7 @@ date: 2024-10-25T12:00:00+08:00
 draft: false
 ---
 
-*原发于 <http://mizuame.chat/d/29>*
+*原发于水饴论坛 <https://mizuame.chat/d/29>*
 
 题目补充：亦有对创伤后精神病性障碍伴药物滥用和一些人格障碍的描绘。
 
