@@ -31,6 +31,10 @@ draft: false
    - 在 <https://extensions.gnome.org> 中下载 kimpanel 并安装
 - 配置 ZIP 包自动按 GB2312 编码解压：
    - 在 ~/.bashrc 中加入：
+```
+UNZIP="-O CP936"
+ZIPINFO="-O CP936"
+```
 - 配置代理：
    - 到 <https://github.com/MetaCubeX/mihomo/releases> 下载 mihomo rpm 并用 dnf 安装
    - 到 <https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest> 下载 country.mmdb
@@ -39,10 +43,6 @@ draft: false
    - 以 root 权限复制 config.yaml country.mmdb 到 /etc/mihomo/ 目录下
    - `sudo systemctl restart mihomo`
    - 在 Settings 里配置系统代理
-```
-UNZIP="-O CP936"
-ZIPINFO="-O CP936"
-```
 - 可选：安装软件：
    - 到 <https://im.qq.com> 下载 QQ rpm 并用 dnf 安装
    - 到 <https://chrome.google.com> 下载 chrome rpm 并用 dnf 安装
