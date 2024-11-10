@@ -69,6 +69,7 @@ ZIPINFO="-O CP936"
 export RUSTUP_DIST_SERVER=https://mirrors.ustc.edu.cn/rust-static
 export RUSTUP_UPDATE_ROOT=https://mirrors.ustc.edu.cn/rust-static/rustup
 ```
+-
    - `source ~/.bashrc`
    - `curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh`
    - 创建 ~/.cargo/config.toml 文件 写入
