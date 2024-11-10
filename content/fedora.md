@@ -64,12 +64,7 @@ ZIPINFO="-O CP936"
    - `yarn config set registry https://registry.npmmirror.com`
    - `yarn config set electron_mirror https://registry.npmmirror.com/electron/`
 - 可选：配置 rust 开发环境：
-   - 在 ～/.bashrc 中加入 
-```
-export RUSTUP_DIST_SERVER=https://mirrors.ustc.edu.cn/rust-static
-export RUSTUP_UPDATE_ROOT=https://mirrors.ustc.edu.cn/rust-static/rustup
-```
--
+   - 在 ~/.bashrc 中加入 `export RUSTUP_DIST_SERVER=https://mirrors.ustc.edu.cn/rust-static` 和 `export RUSTUP_UPDATE_ROOT=https://mirrors.ustc.edu.cn/rust-static/rustup`
    - `source ~/.bashrc`
    - `curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh`
    - 创建 ~/.cargo/config.toml 文件 写入
