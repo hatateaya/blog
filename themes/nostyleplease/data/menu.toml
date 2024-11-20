@@ -29,6 +29,10 @@ title = "all posts"
 #  show_more_url = "posts"
 
 [[entries]]
+title = "friendlinks"
+url = "/friendlinks/"
+
+[[entries]]
 title = "rss"
 url = "index.xml"
 
