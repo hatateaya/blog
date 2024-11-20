@@ -4,8 +4,17 @@ date: 2022-02-11T20:57:39+08:00
 draft: false
 ---
 
-这是我的博客。
+这是我的博客，本站托管于三处，地址分别为：
 
+- Github Page: <https://hatateaya.github.io/>
+- Cloudflare Page: <https://hatateaya.page.dev/>
+- Vercel: <https://hatateaya.vercel.app/>
+
+您可以使用您访问最快的托管地址访问。
+
+我的联系方式如下：
+
+- 我的邮箱: <amcjedhfeh@gmail.com>
 - 我的 GitHub: <https://github.com/hatateaya>
 - 我的 Twitter: <https://twitter.com/amcje1>
 - 我的 Telegram: <https://t.me/ganlancai>
